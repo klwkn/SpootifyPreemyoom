@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SpootifyPreemyoom", "SpootifyPreemyoom\SpootifyPreemyoom.csproj", "{AFD6267A-D8BD-4886-B1CE-24650582EE69}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Spootefee", "ClassLibrary1\Spootefee.csproj", "{4E371873-411A-4C91-95AE-ABCC1F207D3A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AFD6267A-D8BD-4886-B1CE-24650582EE69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFD6267A-D8BD-4886-B1CE-24650582EE69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFD6267A-D8BD-4886-B1CE-24650582EE69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFD6267A-D8BD-4886-B1CE-24650582EE69}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E371873-411A-4C91-95AE-ABCC1F207D3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E371873-411A-4C91-95AE-ABCC1F207D3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E371873-411A-4C91-95AE-ABCC1F207D3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E371873-411A-4C91-95AE-ABCC1F207D3A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {189038D9-9BB6-4581-9118-1069ECD00421}
+	EndGlobalSection
+EndGlobal
